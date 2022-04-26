@@ -63,6 +63,14 @@
 시장에서 물건을 팔거나 살 때마다 4자리 숫자의 보안 문자를 작성해야 합니다.
 이것은 봇이 플레이어 시장을 조작하는 것을 방지하기 위한 것입니다.
 
+## 블랙 마켓
+![Black Market](/resources/mobile-tutorial/BlackMarket.png)
+온갖 종류의 은밀한 거래와 재빠른 수익 창출이 이루어지는 지하 상가입니다.
+
+블랙 마켓에서, 오프라인 작업을 통해 당신의 캐시를 판매하여 BTC를 훨씬 쉽고 빠르게 벌 수 있게 해줍니다.
+블랙 마켓은 샹그릴라 시장에서 찾을 수 있습니다.
+
+
 ## 코스메틱 사이버웨어
 ![Cosmetic Cyberwear](/resources/mobile-tutorial/CosmeticCyberwear.png)  
 여기에서는 실제 현금으로 게임 내 구독서비스를 구입할 수 있습니다.
